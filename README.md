@@ -11,6 +11,6 @@ git clone https://github.com/dipakpatra123/Interview_Question_Creator.git
 
 git add .
 
- git commit -m "readme updated"
+git commit -m "readme updated"
 
- git push origin main
+git push origin main
